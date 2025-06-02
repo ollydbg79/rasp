@@ -1,3 +1,5 @@
-flask
-requests
-cloudscraper
+flask==3.0.3
+requests==2.32.3
+cloudscraper==1.2.71
+pyOpenSSL==24.2.1
+urllib3==2.2.3
